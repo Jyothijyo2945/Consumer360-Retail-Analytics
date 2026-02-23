@@ -16,14 +16,16 @@ The project focuses on data processing, automation, and visualization to support
 
 ---
 
-## 📂 Project Structure
-```
-├── Consumer360_sql.sql
-├── Zaalima_Project1.py
-├── consumer360_auto_refresh.bat
-├── Consumer360_report.pbix
-└── README.md
-```
+## 🔁 Data Pipeline Flow
+Raw Retail Data
+↓
+SQL Cleaning & Aggregation
+↓
+Python RFM & Churn Analysis
+↓
+Automated CSV Output
+↓
+Power BI Dashboards
 
 ---
 
@@ -48,6 +50,17 @@ python Zaalima_Project1.py
 
 ---
 
+
+## 📌 Skills Demonstrated
+- Data Cleaning and Transformation  
+- SQL Analytics and Query Optimization  
+- Python Automation and Data Analysis  
+- RFM & Churn Analysis  
+- Power BI Data Modeling and DAX  
+- Business Insight Communication  
+
+---
+
 ## 📊 Key Features
 - Customer behavior and trend analysis  
 - Automated data refresh process  
@@ -55,6 +68,7 @@ python Zaalima_Project1.py
 - End-to-end analytics workflow  
 
 ---
+
 
 📎 Internship Acknowledgement
 
